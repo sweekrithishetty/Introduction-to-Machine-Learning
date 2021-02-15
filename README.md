@@ -1,2 +1,4 @@
 # Introduction-to-Machine-Learning
--Kaggle : Functions
+**Kaggle **
+- Functions
+- Boolean and condition 
